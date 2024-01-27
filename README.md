@@ -10,10 +10,8 @@ To use this, follow these steps:
 2 - run the app.py file from the terminal like - streamlit run app.py
 3 - An app will open in the browser where you need to first copy paste the JD in the JD box and upload your latest resume. After that, click Submit and get your output
 
-Hope this helps you!
+Hope this helps you! Feel free reaching out to me if you need any help or have any doubts regarding this application. Would like to help you in a best possible way.
 
 Thanks!
-
-Feel free reaching out to me if you need any help or have any doubts regarding this application. Would like to help you in a best possible way.
 
 YOU GOT THIS !!!!
