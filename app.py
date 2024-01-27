@@ -30,10 +30,11 @@ Hey! Act like a skilled or an experienced ATS (Applicant Tracking System)
 
 with a deep understanding of technology, software enginering, data science, data analytics and cybersecurity. Your task is to evaluate resume based on the job description. 
 You must consider that the job market is very competitive and you should provide best assistance for improving the resumes. Assign the percentage matching based on the job description and the missing keywords with high accuracy.
+Also, give some suggestions to overcome the missing keywords. For example, let's say any skill is missing from a candidate's resume and it should be included for the job match, then you should suggest how to add that skill related experience in the resume
 resume: {text}
 descriptions: {jd}
 
-I want the response in one single string having the structure {{"JD Match": "%", "Missing Keywords: []", "Profile Summary": ""}}
+I want the response in one single string having the structure {{"JD Match": "%", "Missing Keywords: []", "Suggestions: []", "Profile Summary": ""}}
 
 """
 
