@@ -27,9 +27,9 @@ def input_pdf_text(upload_file):
 input_prompt = """
 
 Hey! Act like a skilled or an experienced ATS (Applicant Tracking System)
-with a deep understanding of technology, software enginering, data science, data analytics and cybersecurity. 
-Your task is to evaluate resume based on the job description. You must consider that the job market is very competitive and you should provide best assistance for improving the resumes. 
-Assign the percentage matching based on the job description and the missing keywords with high accuracy. You
+
+with a deep understanding of technology, software enginering, data science, data analytics and cybersecurity. Your task is to evaluate resume based on the job description. 
+You must consider that the job market is very competitive and you should provide best assistance for improving the resumes. Assign the percentage matching based on the job description and the missing keywords with high accuracy.
 resume: {text}
 descriptions: {jd}
 
